@@ -5,7 +5,7 @@
 # Report tabına tıkla ve Test Execution sayfasında olduğunu kontrol et
 * Reports tabına tıklanılması
 * Test Execution auto tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/reports/testExecutionList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/testExecutionList.html" ile aynı mı
 * "testReportsTitle" elementinin görünür olması kontrol edilir
 
 # Reports tabına tıklanılması
@@ -15,7 +15,7 @@
 # Report sayfasına gidilmesi
 * Reports tabına tıklanılması
 * Test Execution auto tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/reports/testExecutionList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/testExecutionList.html" ile aynı mı
 
 # Test Execution auto tabına tıkla
 * "2" saniye bekle
@@ -23,7 +23,7 @@
 
 # Test Execution sayfasının kontrollerinin yapılması
 * "testReportsTitle" elementinin görünür olması kontrol edilir
-* Şu anki url "https://dev.testinium.com/members/reports/testExecutionList.html" içeriyor mu
+* Şu anki url "https://preprod.testinium.com/members/reports/testExecutionList.html" içeriyor mu
 
 # Project/Test Plan seçilmesi
 * "ReportsProjectName" elementinin görünür olması kontrol edilir
@@ -105,7 +105,7 @@
 
 # Detailed Reports sayfasının kontrolünün sağlanası
 * "DetailedReportsTitle" elementinin görünür olması kontrol edilir
-* Şu anki url "https://dev.testinium.com/members/reports/performanceReports.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/performanceReports.html" ile aynı mı
 
 # Proje seçilme işleminin kontrolü
 * "detailedReportsProjectName" elementinin görünür olması kontrol edilir
@@ -125,7 +125,7 @@
 
 # Instant Reports sayfasının kontrollerini sağlanması
 * "instantReprtsTitle" elementinin görünür olması kontrol edilir
-* Şu anki url "https://dev.testinium.com/members/reports/instantReports.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/instantReports.html" ile aynı mı
 
 # Proje seçildiğinde hata mesajı
 * "InstantReports_ProjectList" elementine tıkla
@@ -172,7 +172,7 @@
 
 # Scheduled sayfasının kontrol edilmesi
 * "PeriodicallyScheduledReportsList" elementinin görünür olması kontrol edilir
-* Şu anki url "https://dev.testinium.com/members/reports/scheduledReportList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/scheduledReportList.html" ile aynı mı
 
 # Create New Periodicslly Report sayfasına girilmesi
 * "CreateNewPeriodicallyReport" elementine tıkla
@@ -216,9 +216,13 @@
 
 # Grafik için tarihlerin belirlenmesi
 * "ExecutionGraphs_InputStartDate" elementine tıkla
+* "2" saniye bekle
 * "GraphReport_Back" elementine tıkla
+* "2" saniye bekle
 * "GraphReport_StartDate" elementine tıkla
+* "2" saniye bekle
 * "GraphReport_InputEndDate" elementine tıkla
+* "2" saniye bekle
 * "GraphReport_EndDate" elementine tıkla
 
 # Yeni bir proje seçilmesi

@@ -114,24 +114,12 @@ Tags: predefinedExceptionsSayfasindakiCreatePredefinedExceptionSAyfasiKontrolu
 * Predefined Exceptions tabına tıkla
 * Predefined exceptions sayfasında Create new predefined exception butonuna tıklanır sayfa kontrolü yapılır
 
-Test-1-18 Cloud Test Environments sayfasının kontrollerini yap
---------------------------------------------------------------
-Tags: CloudTestEnvironmentsSayfasininKontrolleriniYap
+ Cloud Test Environments sayfasının kontrolleri yapılır
 
-* Cloud Test Environments sayfasının kontrolleri yapılır
+ Cloud Test Environments Groups sayfasının kontrolleri yapılır
 
-Test-1-19 Cloud Test Environments Groups sayfasının kontrollerini yap
----------------------------------------------------------------------
-Tags: CloudTestEnvironmentsGroupsSayfasininKontrolleriniYap
-
-* Cloud Test Environments Groups sayfasının kontrolleri yapılır
-
-Test-1-20 Cloud Test Environments Groups sayfasındaki create new group sayfası kontrolü
-----------------------------------------------------------------------------------------
-Tags: CloudTestEnvironmentsGroupsSayfasindakiCreateNewGroupSayfasiKontrolu
-
-* Cloud Test Environments Groups tabına tıkla
-* Cloud Test Environments Groups sayfasında Create new group butonuna tıklanır sayfa kontrolü yapılır
+ Cloud Test Environments Groups tabına tıkla
+ Cloud Test Environments Groups sayfasında Create new group butonuna tıklanır sayfa kontrolü yapılır
 
 Test-1-21 Notifications sayfasının kontrollerini yap
 ----------------------------------------------------

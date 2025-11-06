@@ -1,7 +1,7 @@
 
 
 # BDD Editor Sayfası Kontrolleri Yapılır
-* Şu anki url "https://dev.testinium.com/members/featureFileList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/featureFileList.html" ile aynı mı
 * "TestFileText" elementinin text değeri "File List" değerine eşit mi
 * "BDD_Editor_Dropdown" elementinin görünür olması kontrol edilir
 * "BDD_Editor_Dropdown" elementine "deneme" değerini yaz
@@ -60,7 +60,7 @@
 * "CreateSpecFileButton" elementinin tıklanabilir olması kontrol edilir
 * "CreateSpecFileButton" elementine tıkla
 * <SpecProjectName> degerini "SpecProjectName" keyinde tut
-* "https://dev.testinium.com/members/featureFileForm.html" adresine git
+* "https://preprod.testinium.com/members/featureFileForm.html" adresine git
 * "3" saniye bekle
 * "CreateSpecProjectNameText" elementine <SpecProjectName> değerini yaz
 .. CreateSpecFileNameText json ekle
@@ -69,7 +69,7 @@
 * "CreateConceptFileButton" elementinin tıklanabilir olması kontrol edilir
 * "CreateConceptFileButton" elementine tıkla
 * <ProjectName> degerini "ConceptProjectName" keyinde tut
-* "https://dev.testinium.com/members/featureFileForm.html" adresine git
+* "https://preprod.testinium.com/members/featureFileForm.html" adresine git
 * "3" saniye bekle
 * "CreateConceptProjectNameText" elementine <ProjectName> değerini yaz
 ..* "CreateConceptProjectNameText" elementinin text değeri <ProjectName> değerini içeriyor mu

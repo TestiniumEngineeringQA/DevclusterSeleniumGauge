@@ -10,7 +10,7 @@ Test-1-1: Companies sayfasından Dashboard sayfasına geçiş
 Tags:CompaniesSayfasindanDashboardSayfasinaGecis
 
 * Dashboard tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/dashboard.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/dashboard.html" ile aynı mı
 
 Test-1-2: Companies sayfasından System Settings sayfasına geçiş
 --------------------------------------------
@@ -18,42 +18,42 @@ Tags:CompaniesSayfasindanSystemSettingsSayfasinaGecis
 
 * "systemSettingTab" elementine tıkla
 * System Setting tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/admin/systemPropertyList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/admin/systemPropertyList.html" ile aynı mı
 
 Test-1-3: Companies sayfasından Users sayfasına geçiş
 -------------------------------------------
 Tags:CompaniesSayfasindanUsersSayfasinaGecis
 
 * Users tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/userList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/userList.html" ile aynı mı
 
 Test-1-4: Companies sayfasından Project sayfasına geçiş
 ---------------------------------------------
 Tags:CompaniesSayfasindanProjectSayfasinaGecis
 
 * Projects tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/projectList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/projectList.html" ile aynı mı
 
 Test-1-5: Companies sayfasından Scenarios sayfasına geçiş
 ---------------------------------------------
 Tags:CompaniesSayfasindanScenariosSayfasinaGecis
 
 * Scenarioss tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/testScenarioList.html" ile aynı mı
 
 Test-1-6: Companies sayfasından Plans sayfasına geçiş
 ------------------------------------------------
 Tags:CompaniesSayfasindanPlansSayfasinaGecis
 
 * Plans tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/testPlanList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/testPlanList.html" ile aynı mı
 
 Test-1-7: Companies sayfasından Bdd Editör sayfasına geçiş
 ------------------------
 Tags:CompaniesSayfasindanBddEditorSayfasinaGecis
 
 * BDD Editor tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/featureFileList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/featureFileList.html" ile aynı mı
 
 Test-1-8: Companies sayfasından Reports sayfasına geçiş
 ------------------------
@@ -61,7 +61,7 @@ Tags:CompaniesSayfasindanReportsSayfasinaGecis
 
 * "reportsTab" elementine tıkla
 * Reports tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/reports/testExecutionList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/testExecutionList.html" ile aynı mı
 
 Test-1-9: Companies sayfasının kontrollerini yap
 ------------------------
@@ -85,7 +85,7 @@ Tags:CompaniesFormToEditPage
 * Companies sayfasının elementlerinin kontrollerinin yapılması
 * Companies List sayfasında edit sayfasının kontrollerinin yapılması
 * Edit butonuna tıkla
-* Şu anki url "https://dev.testinium.com/members/companyForm.html?id=8" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/companyForm.html?id=8" ile aynı mı
 
 Test-1-12: Check to Company Form
 ------------------------

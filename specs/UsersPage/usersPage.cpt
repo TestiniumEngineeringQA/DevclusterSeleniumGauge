@@ -5,7 +5,7 @@ By Enes
 
 # Users Tabına tıkla ve Users sayfasında olduğunu kontrol et
 * Users tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/userList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/userList.html" ile aynı mı
 * "pageHeader_UsersPage" elementinin görünür olması kontrol edilir
 * "pageHeader_UsersPage" elementinin text değeri "User List" değerine eşit mi
 
@@ -37,7 +37,7 @@ By Enes
 # Manage Roles tabına tıkla
 * "manageRolesTab_UsersPage" elementinin görünür olması kontrol edilir
 * "manageRolesTab_UsersPage" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/admin/roleList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/admin/roleList.html" ile aynı mı
 
 
 # Manage Roles sayfasının element kontrolleri yapılır
@@ -49,7 +49,7 @@ By Enes
 # Create new role tabına tıkla
 * "createNewRoleButton_ManageRoles_UsersPage" elementinin görünür olması kontrol edilir
 * "createNewRoleButton_ManageRoles_UsersPage" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/admin/roleForm.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/admin/roleForm.html" ile aynı mı
 
 
 # Create new role sayfasının element kontrolü yapılır
@@ -76,7 +76,7 @@ By Enes
 
 # Bilgileri doldurarak <rol> rolünü oluştur ve oluşturulduğunu kontrol et
 * Bilgileri doldurarak <rol> rolünü oluştur
-* Şu anki url "https://dev.testinium.com/members/admin/roleList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/admin/roleList.html" ile aynı mı
 * "info_ManageRoles_CreateNewRole_UsersPage" elementinin görünür olması kontrol edilir
 * "info_ManageRoles_CreateNewRole_UsersPage" elementinin text değeri "The new record has been created successfully." değerine eşit mi
 * "roleNameControl_ManageRoles_CreateNewRole_UsersPage" elementinin değerini "roleName_UserPageKeyValue" değeriyle değiştirerek "roleNameKeyValue" elementini oluştur
@@ -101,7 +101,7 @@ By Enes
 # Create new role sayfasında Cancel tuşuna bas geri dönüldüğünü kontrol et
 * "cancelButton_ManageRoles_CreateNewRole_UsersPage" elementinin görünür olması kontrol edilir
 * "cancelButton_ManageRoles_CreateNewRole_UsersPage" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/admin/roleList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/admin/roleList.html" ile aynı mı
 
 # <permission> adlı izni seç ve role permissions kısmına taşı ve kontrollerini yap
 * "permissionName_ManageRoles_CreateNewRole_UsersPage" elementinin değerini <permission> değeriyle değiştirerek "permissionNameKeyValue" elementini oluştur
@@ -118,7 +118,7 @@ By Enes
 # Create new user tabına tıkla
 * "createNewUserTab_UsersPage" elementinin görünür olması kontrol edilir
 * "createNewUserTab_UsersPage" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/userForm.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/userForm.html" ile aynı mı
 * "pageHeader_CreateNewUser_UsersPage" elementinin görünür olması kontrol edilir
 * "pageHeader_CreateNewUser_UsersPage" elementinin text değeri "User Form" değerini içeriyor mu
 
@@ -173,7 +173,7 @@ By Enes
 * "save_CreateNewUser_UsersPage" elementine tıkla
 * "info_CreateNewUser_UsersPage" elementinin görünür olması kontrol edilir
 * "info_CreateNewUser_UsersPage" elementinin text değeri "The new record has been created successfully." değerine eşit mi
-* Şu anki url "https://dev.testinium.com/members/userList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/userList.html" ile aynı mı
 * "deleteUserButton_CreateNewUser_UsersPage" elementinin değerini "userNameKeyValue" değeriyle değiştirerek "deleteKeyValue" elementini oluştur
 * "deleteKeyValue" elementinin görünür olması kontrol edilir
 * "deleteKeyValue" elementine tıkla

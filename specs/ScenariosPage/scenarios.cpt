@@ -1,19 +1,19 @@
 # Scenarios tabına tıkla ve Scenarios sayfasında olduğunu kontrol et
 * "scenariosTab" elementinin görünür olması kontrol edilir
 * "scenariosTab" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/testScenarioList.html" ile aynı mı
 * "pageHeader" elementinin görünür olması kontrol edilir
 
 # Scenarios sayfasındaki elementlerin kontrolünü yap
 * "pageHeader" elementinin text değeri "Test Scenario List" değerini içeriyor mu
 * "pageHeader" elementinin görünür olması kontrol edilir
-* Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/testScenarioList.html" ile aynı mı
 
 # Create New Scenario için proje adının seçilmesi
 * "createNewScenarioTop" elementine tıkla
 * "projectButton" elementinin tıklanabilir olması kontrol edilir
 * "projectButton" elementine tıkla
-* "4" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
+* "2" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
 * "projectNameList" element listesinin "rasgeleSayıKeyValue" sıradaki elemanına tıkla
 
 
@@ -46,7 +46,7 @@
 * "createNewGroupTop" elementine tıkla
 * "projectButton" elementinin tıklanabilir olması kontrol edilir
 * "projectButton" elementine tıkla
-* "45" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
+* "2" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
 * "projectNameList" element listesinin "rasgeleSayıKeyValue" sıradaki elemanına tıkla
 
 # Create New Group Kontrollerinin sağlanması
@@ -60,7 +60,7 @@
 * "copyScenarioTop" elementine tıkla
 * "projectButton" elementinin tıklanabilir olması kontrol edilir
 * "projectButton" elementine tıkla
-* "25" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
+* "2" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
 * "projectNameList" element listesinin "rasgeleSayıKeyValue" sıradaki elemanına tıkla
 
 # Copy Scenario Kontrollerinin sağlanması
@@ -88,7 +88,7 @@
 # Export Excel için proje adının seçilmesi
 * "projectButton" elementinin tıklanabilir olması kontrol edilir
 * "projectButton" elementine tıkla
-* "45" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
+* "2" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
 * "projectNameList" element listesinin "rasgeleSayıKeyValue" sıradaki elemanına tıkla
 
 # Dashboard tabına tıklayınız

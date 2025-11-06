@@ -11,7 +11,7 @@ Tags:DashboardSayfasindanReportSayfasinaGecis
 
 * Reports tabına tıklanılması
 * Test Execution auto tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/reports/testExecutionList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/testExecutionList.html" ile aynı mı
 
 Test-2: Reports sayfasından System Settings sayfasına geçiş
 --------------------------------------------
@@ -19,49 +19,49 @@ Tags:ReportsSayfasindanSystemSettingsSayfasinaGecis
 
 * "systemSettingTab" elementine tıkla
 * System Setting tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/admin/systemPropertyList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/admin/systemPropertyList.html" ile aynı mı
 
 Test-3: Reports sayfasından Companies sayfasına geçiş
 -------------------------------------------
 Tags:ReportsSayfasindanCompaniesSayfasinaGecis
 
 * Companies tabına tıklayınız
-* Şu anki url "https://dev.testinium.com/members/companyList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/companyList.html" ile aynı mı
 
 Test-4: Reports sayfasından Users sayfasına geçiş
 -------------------------------------------
 Tags:ReportsSayfasindanUsersSayfasinaGecis
 
 * Users tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/userList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/userList.html" ile aynı mı
 
 Test-5: Reports sayfasından Project sayfasına geçiş
 ---------------------------------------------
 Tags:ReportsSayfasindanProjectSayfasinaGecis
 
 * Projects tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/projectList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/projectList.html" ile aynı mı
 
 Test-6: Reports sayfasından Scenarios sayfasına geçiş
 ---------------------------------------------
 Tags:ReportsSayfasindanScenariosSayfasinaGecis
 
 * Scenarioss tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/testScenarioList.html" ile aynı mı
 
 Test-7: Reports sayfasından Plans sayfasına geçiş
 ------------------------------------------------
 Tags:ReportsSayfasindanPlansSayfasinaGecis
 
 * Plans tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/testPlanList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/testPlanList.html" ile aynı mı
 
 Test-8: Reports sayfasından Bdd Editör sayfasına geçiş
 ------------------------
 Tags:ReportsSayfasindanBddEditorSayfasinaGecis
 
 * BDD Editor tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/featureFileList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/featureFileList.html" ile aynı mı
 
 Test-9: Test Execution Auto sayfasının kontrollerinin yapılması ve proje seçilmesi
 ------------------------
@@ -69,7 +69,7 @@ Tags:TestExecutionAutoSayfasininKontrollerininYapilmasiVeProjeSecilmesi
 
 * Reports tabına tıklanılması
 * Test Execution auto tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/reports/testExecutionList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/reports/testExecutionList.html" ile aynı mı
 * Project/Test Plan seçilmesi
 * Search Tabına tıkla
 

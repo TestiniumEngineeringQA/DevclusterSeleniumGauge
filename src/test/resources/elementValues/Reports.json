@@ -336,7 +336,7 @@
   },
   {
     "key": "GraphReport_EndDate",
-    "value": "//a[@class='ui-state-default' and text()='31']",
+    "value": "//a[@class='ui-state-default' and text()='10']",
     "type": "xpath"
   },
   {
@@ -351,13 +351,13 @@
   },
   {
     "key": "GraphReport_SelectRight",
-    "value": "//button[@title='Add']",
+    "value": "//button[@title='Add All']",
     "type": "xpath"
   },
   {
     "key": "GraphReport_DrawButton",
-    "value": "companyCharts:j_idt237",
-    "type": "id"
+    "value": "//span[text()='Draw']",
+    "type": "xpath"
   },
   {
     "key": "GraphReport_ErrorTitle",
@@ -376,7 +376,7 @@
   },
   {
     "key": "ExecutionGraphs_DrawButton",
-    "value": "//button[@id='companyCharts:j_idt235']",
+    "value": "//span[text()='Draw']",
     "type": "xpath"
   },
   {
@@ -427,7 +427,7 @@
   },
   {
   "key": "ReportsProjectNameName",
-  "value": "//li[@data-item-label='AppiumJava']",
+  "value": "//li[@data-item-label='appium2gauge']",
   "type": "xpath"
   },
   {
@@ -437,7 +437,7 @@
   },
   {
     "key": "ReportsTestPlanNameName",
-    "value": "//li[@data-item-label='Success']",
+    "value": "//li[@data-item-label='deneme']",
     "type": "xpath"
   },
   {

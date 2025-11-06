@@ -1,7 +1,7 @@
 
 # Companies tabına tıkla ve companies sayfasında olduğunu kontrol et
 * "companiesTab" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/companyList.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/members/companyList.html" ile aynı mı
 * "companiesLogoTitleInCompanies" elementinin görünür olması kontrol edilir
 
 # Dashboard tabına tıkla for companies

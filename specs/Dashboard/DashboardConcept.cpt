@@ -25,8 +25,6 @@
 * "activeTests_Projects_SystemSettings" elementinin görünür olması kontrol edilir
 * "screenResolutions_Projects_SystemSettings" elementinin görünür olması kontrol edilir
 * "preDefinedExceptions_Projects_SystemSettings" elementinin görünür olması kontrol edilir
-* "cloudTestEnvironments_Projects_SystemSettings" elementinin görünür olması kontrol edilir
-* "cloudTestEnvironmentsGroups_Projects_SystemSettings" elementinin görünür olması kontrol edilir
 * "notifications_Projects_SystemSettings" elementinin görünür olması kontrol edilir
 * "projectClone_Projects_SystemSettings" elementinin görünür olması kontrol edilir
 * "companysScheduledPlans_Projects_SystemSettings" elementinin görünür olması kontrol edilir

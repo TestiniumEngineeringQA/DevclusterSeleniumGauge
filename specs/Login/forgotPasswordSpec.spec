@@ -2,8 +2,8 @@ Forgot Password Scenarious
 =====================
 
      
-* "https://dev.testinium.com/forgotPassword.html" adresine git
-* Şu anki url "https://dev.testinium.com/forgotPassword.html" ile aynı mı
+* "https://preprod.testinium.com/forgotPassword.html" adresine git
+* Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 
 Test-2-1: Forgot Password to Login Page
@@ -12,7 +12,7 @@ Tags: ForgotPasswordToLoginPage
 
 * Forgot Password sayfasında olduğunu kontrol et
 * Forgot Password sayfasından Back To Login butonuna tıklayıp login sayfasına git
-* Şu anki url "https://dev.testinium.com/login.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/login.html" ile aynı mı
 
 Test-2-2: Forgot Password - Input Controls - Valid email
 --------------------------------------------------------

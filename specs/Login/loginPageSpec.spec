@@ -5,7 +5,7 @@ Test-2-1: Valid Login to dashboard
 ----------------------------------
 Tags: Validlogin
 
-* "testinium1" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "testinium" bilgileriyle gecerli login yap
 
 
 Test-2-2: Invalid Login --> empty username and empty password
@@ -49,6 +49,6 @@ Test-2-7 Go to Forgot My Password
 Tags: GoToForgotMyPassword
 
 * Forgot my password butonuna tıkla
-* Şu anki url "https://dev.testinium.com/forgotPassword.html" ile aynı mı
+* Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 
