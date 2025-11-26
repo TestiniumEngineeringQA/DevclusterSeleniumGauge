@@ -1,7 +1,7 @@
 Scenarios Page Scenarios
 =========================
 
-* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "Testinium2023*" bilgileriyle gecerli login yap
 * Scenarios tabına tıkla ve Scenarios sayfasında olduğunu kontrol et
 
 Test-1: Scenarios sayfasının kontrollerini yap

@@ -1,7 +1,7 @@
 Specification Heading
 =====================
 
-* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "Testinium2023*" bilgileriyle gecerli login yap
 * BDD Editor Sayfasına Gidilmesi
 
 Test1-1-BDD Editor Sayfası Kontrolleri

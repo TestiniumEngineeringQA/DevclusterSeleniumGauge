@@ -1,7 +1,7 @@
 Daily Run
 ================
 
-* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "Testinium2023*" bilgileriyle gecerli login yap
 * Deneme adlı company'e geçiş yap
 * Projects tabına tıkla ve Projects sayfasında olduğunu kontrol et
 

@@ -1,7 +1,7 @@
 Plans Page Scenarios
 =====================
 
-* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "Testinium2023*" bilgileriyle gecerli login yap
 * Plans tabına tıklayınız
 
 Test-1: Plan sayfası element kontrolleri

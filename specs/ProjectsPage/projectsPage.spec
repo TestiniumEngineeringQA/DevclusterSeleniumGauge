@@ -1,7 +1,7 @@
 Projects Page Scenarios
 =====================
 
-* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "Testinium2023*" bilgileriyle gecerli login yap
 * Projects tabına tıkla ve Projects sayfasında olduğunu kontrol et
 
 Test-2-1: Projects sayfasının kontrollerini yap

@@ -1,7 +1,7 @@
 Specification Heading
 =====================
 
-* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "Testinium2023*" bilgileriyle gecerli login yap
 * "2" saniye bekle
 
 Test-2-1: Dashboard sayfasının kontrollerini yap

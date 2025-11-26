@@ -2,7 +2,7 @@ Companies Page Systematic
 =====================
 By sena
 
-* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* "testinium" ve "Testinium2023*" bilgileriyle gecerli login yap
 * Companies tabına tıkla ve companies sayfasında olduğunu kontrol et
 
 Test-1-1: Companies sayfasından Dashboard sayfasına geçiş
