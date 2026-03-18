@@ -54,7 +54,7 @@ Tags: GoToForgotMyPassword
 Test-2-8 Wait Test
 ------------------------------
 Tags: WaitTest
-* "1200" milisaniye bekle
+* "1200" saniye bekle
 * Forgot my password butonuna tıkla
 
 
