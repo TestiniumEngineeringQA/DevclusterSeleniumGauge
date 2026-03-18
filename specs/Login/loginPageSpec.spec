@@ -51,4 +51,11 @@ Tags: GoToForgotMyPassword
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
+Test-2-8 Wait Test
+------------------------------
+Tags: WaitTest
+
+* Forgot my password butonuna tıkla
+* "1200" milisaniye bekle
+
 
