@@ -7,280 +7,280 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername1
+Tags: zCjSsSb48MYB
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername2
+Tags: M66PgJcxRcDr
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername3
+Tags: JucgU78FJUg2
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername4
+Tags: CmRrPUYJzsCw
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername5
+Tags: 7mw97AWrnRSu
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername6
+Tags: aH3GryFXqjAW
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername7
+Tags: hB57Nm2Xw8JC
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername8
+Tags: MvWtMAeALB3f
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername9
+Tags: tZuwN7Ez9qMP
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername10
+Tags: mP3fxc4RuJ5j
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername11
+Tags: xjBmhveknkB8
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername12
+Tags: EZBZBRT52sZv
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername13
+Tags: vt68aMmW8sNM
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername14
+Tags: m7u9TcVdfvvN
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername15
+Tags: bNTaExKqGsUa
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername16
+Tags: LPggCN9Dd5Vk
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername17
+Tags: p7htUJ3bqKSU
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername18
+Tags: nc59x8Rs8DGr
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername19
+Tags: 8pRjbGuW5RT3
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
-Tags: InvalidLoginWithInvalidUsername20
+Tags: r4tq3vVUDS3A
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword1
+Tags: Av2gWQQPmstj
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword2
+Tags: AEWxWnSL6s5e
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword3
+Tags: WhLRSwVTg4VY
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword4
+Tags: 6F3Twwy6e5vz
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword5
+Tags: 3s3WUe6wZrPL
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword6
+Tags: hfrRY6ZRDde5
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword7
+Tags: tbQwP6XMYXn4
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword8
+Tags: sqTz35qUxfDz
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword9
+Tags: r8j7fy6YKVSF
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword10
+Tags: UfDtwajA3NF7
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword11
+Tags: jEdHEmcs5E7r
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword12
+Tags: ETsFgDHB7kMe
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword13
+Tags: ZJtBEWZsTU9U
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword14
+Tags: XcHsEKRk3Dxs
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword15
+Tags: 83MJdkCzdcR6
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword16
+Tags: RBx2jx6fpLP7
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword17
+Tags: BKxrMHQkwhbC
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword18
+Tags: W5vHKu3VmmZm
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword19
+Tags: nrUzAEsJ7jDJ
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
 Test-2-7 Go to Forgot My Password
 ------------------------------
-Tags: GoToForgotMyPassword20
+Tags: 5sNzSD9ugD36
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
