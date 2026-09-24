@@ -5,280 +5,280 @@ Created by n100645 on 24.09.2026
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+zCjSsSb48MYB
 --------------------------------------------------------------
 Tags: zCjSsSb48MYB
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+M66PgJcxRcDr
 --------------------------------------------------------------
 Tags: M66PgJcxRcDr
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+JucgU78FJUg2
 --------------------------------------------------------------
 Tags: JucgU78FJUg2
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+CmRrPUYJzsCw
 --------------------------------------------------------------
 Tags: CmRrPUYJzsCw
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+7mw97AWrnRSu
 --------------------------------------------------------------
 Tags: 7mw97AWrnRSu
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+aH3GryFXqjAW
 --------------------------------------------------------------
 Tags: aH3GryFXqjAW
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+hB57Nm2Xw8JC
 --------------------------------------------------------------
 Tags: hB57Nm2Xw8JC
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+MvWtMAeALB3f
 --------------------------------------------------------------
 Tags: MvWtMAeALB3f
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+tZuwN7Ez9qMP
 --------------------------------------------------------------
 Tags: tZuwN7Ez9qMP
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+mP3fxc4RuJ5j
 --------------------------------------------------------------
 Tags: mP3fxc4RuJ5j
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+xjBmhveknkB8
 --------------------------------------------------------------
 Tags: xjBmhveknkB8
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+EZBZBRT52sZv
 --------------------------------------------------------------
 Tags: EZBZBRT52sZv
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+vt68aMmW8sNM
 --------------------------------------------------------------
 Tags: vt68aMmW8sNM
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+m7u9TcVdfvvN
 --------------------------------------------------------------
 Tags: m7u9TcVdfvvN
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+bNTaExKqGsUa
 --------------------------------------------------------------
 Tags: bNTaExKqGsUa
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+LPggCN9Dd5Vk
 --------------------------------------------------------------
 Tags: LPggCN9Dd5Vk
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+p7htUJ3bqKSU
 --------------------------------------------------------------
 Tags: p7htUJ3bqKSU
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+nc59x8Rs8DGr
 --------------------------------------------------------------
 Tags: nc59x8Rs8DGr
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+8pRjbGuW5RT3
 --------------------------------------------------------------
 Tags: 8pRjbGuW5RT3
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-6 Invalid Login --> username invalid and valid password
+r4tq3vVUDS3A
 --------------------------------------------------------------
 Tags: r4tq3vVUDS3A
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
 * Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
 
-Test-2-7 Go to Forgot My Password
+Av2gWQQPmstj
 ------------------------------
 Tags: Av2gWQQPmstj
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+AEWxWnSL6s5e
 ------------------------------
 Tags: AEWxWnSL6s5e
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+WhLRSwVTg4VY
 ------------------------------
 Tags: WhLRSwVTg4VY
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+6F3Twwy6e5vz
 ------------------------------
 Tags: 6F3Twwy6e5vz
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+3s3WUe6wZrPL
 ------------------------------
 Tags: 3s3WUe6wZrPL
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+hfrRY6ZRDde5
 ------------------------------
 Tags: hfrRY6ZRDde5
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+tbQwP6XMYXn4
 ------------------------------
 Tags: tbQwP6XMYXn4
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+sqTz35qUxfDz
 ------------------------------
 Tags: sqTz35qUxfDz
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+r8j7fy6YKVSF
 ------------------------------
 Tags: r8j7fy6YKVSF
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+UfDtwajA3NF7
 ------------------------------
 Tags: UfDtwajA3NF7
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+jEdHEmcs5E7r
 ------------------------------
 Tags: jEdHEmcs5E7r
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+ETsFgDHB7kMe
 ------------------------------
 Tags: ETsFgDHB7kMe
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+ZJtBEWZsTU9U
 ------------------------------
 Tags: ZJtBEWZsTU9U
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+XcHsEKRk3Dxs
 ------------------------------
 Tags: XcHsEKRk3Dxs
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+83MJdkCzdcR6
 ------------------------------
 Tags: 83MJdkCzdcR6
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+RBx2jx6fpLP7
 ------------------------------
 Tags: RBx2jx6fpLP7
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+BKxrMHQkwhbC
 ------------------------------
 Tags: BKxrMHQkwhbC
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+W5vHKu3VmmZm
 ------------------------------
 Tags: W5vHKu3VmmZm
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+nrUzAEsJ7jDJ
 ------------------------------
 Tags: nrUzAEsJ7jDJ
 
 * Forgot my password butonuna tıkla
 * Şu anki url "https://preprod.testinium.com/forgotPassword.html" ile aynı mı
 
-Test-2-7 Go to Forgot My Password
+5sNzSD9ugD36
 ------------------------------
 Tags: 5sNzSD9ugD36
 
