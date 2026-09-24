@@ -133,6 +133,13 @@ Tags: InvalidLoginWithInvalidUsername18
 
 Test-2-6 Invalid Login --> username invalid and valid password
 --------------------------------------------------------------
+Tags: InvalidLoginWithInvalidUsername19
+
+* "rerere" ve "Qwe123+" bilgileriyle giris yap
+* Login başarısız uyarısında "Username or password incorrect!" hata mesajı alınır.
+
+Test-2-6 Invalid Login --> username invalid and valid password
+--------------------------------------------------------------
 Tags: InvalidLoginWithInvalidUsername20
 
 * "rerere" ve "Qwe123+" bilgileriyle giris yap
